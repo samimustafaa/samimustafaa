@@ -1,93 +1,23 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sami</h1>
+<h3 align="center">A software engineer student, passion for Front-End Development</h3>
 
-<p><code>samimustafaa@github ~ $ ./maintainer.sh</code></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samimustafaa&label=Profile%20views&color=0e75b6&style=flat" alt="samimustafaa" /> </p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Sami animated maintainer system scan" />
-</picture>
-</p>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samimustafaa" alt="samimustafaa" /></a> </p>
 
-<h2>Why I build in public</h2>
+- 🌱 I’m currently learning **ReactJS, C#**
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>TypeScript</code> · <code>HTML</code> · <code>CSS</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>84 public repositories · 5 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>208 contributions · 48 active days</p></td>
-</tr>
-</table>
+- 📫 How to reach me **samimustafa072@gmail.com**
 
-<p>22y 
-Front-End Developer🏻</p>
-
-<h2>Open-source toolbox</h2>
-
-<p><code>samimustafaa@github ~ $ toolbox --list</code></p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Sami open-source technology toolbox" />
-</picture>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<table width="100%">
-<tr>
-<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>54%</sub></td>
-<td width="17%" align="center"><strong>HTML</strong><br /><sub>22%</sub></td>
-<td width="17%" align="center"><strong>CSS</strong><br /><sub>12%</sub></td>
-<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>10%</sub></td>
-<td width="17%" align="center"><strong>Rust</strong><br /><sub>1%</sub></td>
-<td width="17%" align="center"><strong>SCSS</strong><br /><sub>1%</sub></td>
-</tr>
-</table>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h2>Repositories worth exploring</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samimustafaa&show_icons=true&locale=en&layout=compact" alt="samimustafaa" /></p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&repos=samimustafaa%2Fnasheed-notes%2Csamimustafaa%2Femployeeflow%2Csamimustafaa%2Fsg0hann&v=oss-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&repos=samimustafaa%2Fnasheed-notes%2Csamimustafaa%2Femployeeflow%2Csamimustafaa%2Fsg0hann&v=oss-projects-1&mode=dark" width="860" alt="Sami maintainer repositories" />
-</picture>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samimustafaa&show_icons=true&locale=en" alt="samimustafaa" /></p>
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/samimustafaa/employeeflow">employeeflow</a></h3><p>A public project looking for its next contributor.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/samimustafaa/sg0hann">sg0hann</a></h3><p>A public project looking for its next contributor.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Contribution activity</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Sami open-source signal" />
-</picture>
-</p>
-
-<h2>Contribution trail</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Sami contribution trail" />
-</picture>
-</p>
-
-<hr />
-
-<h2>Contribute together</h2>
-
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
-
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=samimustafaa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97249274%3Fu%3D6ba6aad266baec455ab4aaee105ad91ffc581005%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Sami community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/samimustafaa">GitHub</a></p>
-<p align="center"><sub>Sami · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samimustafaa&" alt="samimustafaa" /></p>
